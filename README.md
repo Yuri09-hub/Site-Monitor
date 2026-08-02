@@ -19,20 +19,6 @@ This project was developed to practice HTTP requests, automation, monitoring sys
 
 ---
 
-# 🛠 Technologies
-
-
-* Requests
-
-*  Schedule
-
-* SMTP (Email)
-  
-* Python-dotenv
-
-
----
-
 # 📂 Project Structure
 
 ```text
